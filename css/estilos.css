@@ -217,8 +217,8 @@ footer {
     font-family: Peddana, Verdana, sans-serif;
 }  
 
-  
-  /* Superposición de imágenes. No queda 10 puntos, hay que rever*/
+
+/* Superposición de imágenes. No queda 10 puntos, hay que rever*/
 /* .vertical img {
     position: absolute;
     top: 0;
@@ -417,3 +417,9 @@ label, input, button {
         font-size: 14px;
     }
 }
+
+#boton-login {
+    float: right;
+    margin-left: 10px;
+}
+
